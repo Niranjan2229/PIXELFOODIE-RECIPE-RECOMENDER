@@ -30,3 +30,12 @@ pip install -r requirements.txt
 python app.py
 4️⃣ Enjoy: 
 Open http://127.0.0.1:5000/ and start cooking! 🍕
+
+👨‍💻 Developed By
+NIRANJAN ANANDAN 
+          ~ B.Sc. Artificial Intelligence and Machine Learning
+          ~ Rathinavel Subramanian College of Arts and Science,Sulur,Coimbatore
+CONTACT : 
+          Gmail: niranjannj2229@gmail.com
+          GITHUB: https://github.com/Niranjan2229
+          LinkedIn: www.linkedin.com/in/niranjan-anandan
